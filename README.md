@@ -1,0 +1,1 @@
+Atividade da Unidade Curricular LOPAL (Lógica de Programação e Algoritmos): Algoritmos em Linguagem JAVA que atendem a 19 Requisitos Funcionais mapeados em uma atividade da unidade curricular LER (Levantamento de Requisitos)
